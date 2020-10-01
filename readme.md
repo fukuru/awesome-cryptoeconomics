@@ -62,7 +62,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [Cryptoeconomics is Hard Part 1](https://blog.coinfund.io/cryptoeconomics-is-hard-ad401b2428b9), [Part 2](https://blog.coinfund.io/cryptoeconomics-is-hard-part-2-4d522cb3d3a4) and [Part 3](https://blog.coinfund.io/cryptoeconomics-is-hard-market-cap-4833c378a3e0) by Aleksandr Bulkin
 1.  [How to create a cryptoeconomic protocol from scratch](https://mattgoldenberg.net/2016/10/26/vlad-zamfir-how-to-create-a-crypto-economic-protocol-from-scratch/) by Vlad Zamfir
 1.  [Behavioural Crypto-Economics](https://medium.com/berlin-innovation-ventures/behavioral-crypto-economics-6d8befbf2175) the challenge and promise of Blockchain Incentive Design by Elad Verbin
-1.  [Introduction to Blockchain through Cryptoeconomics](https://blockchainatberkeley.blog/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
+1.  [Introduction to Blockchain through Cryptoeconomics](https://medium.com/blockchain-at-berkeley/introduction-to-blockchain-through-cryptoeconomics-part-1-bitcoin-369f245067f9) by Zubin Koticha
 1. [The need for an Incentive scheme in Algorand](https://blockchainatberkeley.blog/the-need-for-an-incentive-scheme-in-algorand-6fe9db45f2a7) by Alexis Guaba, Zubin Koticha
 1. [Cryptoeconomics.study](https://cryptoeconomics.study) -- An free and open source book & course on Cryptoeconomics
 
@@ -92,6 +92,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 
 #### PoW - Proof of Work
 1.  [PoW and Blockchains](https://www.zurich.ibm.com/dccl/papers/eyal_dccl_slides.pdf) presentation by Prof. Ittay Eyal (IC3)
+1.  [An Economic Analysis of Difficulty Adjustment Algorithms in PoW Blockchain Systems](https://www.ssrn.com/abstract=3410460) by Noda et al.
 1.  [The PoW concept](https://nakamotoinstitute.org/mempool/the-proof-of-work-concept/) article by the Nakamoto Institute
 1.  [ConsensusPedia - An Encylopedia of 29 consensus algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f) article by the Nakamoto Institute) article by Vasa
 1.  [Proof of Work vs Proof of Stake](https://blockgeeks.com/guides/proof-of-work-vs-proof-of-stake/) by BlockGeeks
@@ -301,6 +302,7 @@ _Please check the [contribution guidelines](contributing.md) for info on formatt
 1.  [The Bitcoin Backbone Protocol Analysis and Applications](https://eprint.iacr.org/2014/765)
 1.  [Cryptocurrencies without PoW](https://arxiv.org/pdf/1406.5694.pdf)
 1.  [Some Simple Economics of the Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2874598)
+1.  [Crypto-Economics of the Nervos Common Knowledge Base](https://github.com/nervosnetwork/rfcs/blob/master/rfcs/0015-ckb-cryptoeconomics/0015-ckb-cryptoeconomics.md)
 
 ## Other Resources
 1.  [Evolution of Trust](https://ncase.me/trust/) Fun interactive game by Nicky Case showing the evolution of group trust over time
